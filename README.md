@@ -3,10 +3,13 @@
 ###
 
 <div align="center">
+  
   <img src="https://profile-counter.glitch.me/star-173/count.svg?"  />
 </div>
 
 ###
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=star-173" alt="star-173" /></a> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=star-173&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
