@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="https://profile-counter.glitch.me/star-173/count.svg?"  />
+ <img src="https://komarev.com/ghpvc/?username=star-173&label=Profile%20views&color=0e75b6&style=flat" alt="star-173" />
 </div>
 
 ###
