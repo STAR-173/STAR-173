@@ -1,4 +1,4 @@
-<h1 align="left">Backend & Devops Student / Freelancer | Bringing applications to life, one line at a time</h1>
+<h1 align="center">Sophomore Student | Backend & Devops Freelancer <br /> Bringing applications to life, one line at a time</h1>
 
 ###
 
