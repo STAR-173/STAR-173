@@ -1,4 +1,5 @@
 <h1 align="center">Backend & Devops Freelancer <br /> Bringing applications to life, one line at a time</h1>
+![GIthub Profile gif](https://github.com/STAR-173/STAR-173/assets/140428769/a2b69099-a337-4ce4-95d3-dd036221dff5)
 
 ###
 
