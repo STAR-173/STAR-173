@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=star-173&label=Profile%20views&color=0e75b6&style=flat" alt="star-173" />
-  <img src="https://github.com/STAR-173/STAR-173/assets/140428769/a2b69099-a337-4ce4-95d3-dd036221dff5" alt="profile" />
+<!--    <img src="https://komarev.com/ghpvc/?username=star-173&label=Profile%20views&color=0e75b6&style=flat" alt="star-173" />
+  <img src="https://github.com/STAR-173/STAR-173/assets/140428769/a2b69099-a337-4ce4-95d3-dd036221dff5" alt="profile" /> -->
 </div>
 
 ###
 
-   ### <p align="center">The place where I opensource stuff and break things 🤣</p>
+   ### <!-- <p align="center">The place where I opensource stuff and break things 🤣</p> -->
      
    
-   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=star-173&show_icons=true&locale=en" alt="star-173" /></div>
+   <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=star-173&show_icons=true&locale=en" alt="star-173" /></div> -->
 
 ###
 
