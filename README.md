@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shoaib Akhtar <br /> Bringing applications to life, one line at a time</h1>
 
 ###
+<div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+  <a href="https://www.linkedin.com/in/shoaib-star/" target="_blank"><img src="./assets/linkedin.svg" width="35px" alt="linkedIn" /></a> &nbsp; &nbsp;
+  <a href="mailto:starvoltz173@gmail.com" target="_blank"><img src="./assets/gmail.svg" width="35px" alt="mail" /></a> &nbsp; &nbsp;
+  <a href="https://x.com/Shoaib_star_" target="_blank"><img src="./assets/x.svg" width="35px" alt="x" /></a> &nbsp; &nbsp;
+  <a href="https://dev.to/star173" target="_blank"><img src="./assets/dev_to.svg" width="35px" alt="dev_to" /></a> &nbsp; &nbsp;
+</div>
+
 
 <div align="center">
 <!--    <img src="https://komarev.com/ghpvc/?username=star-173&label=Profile%20views&color=0e75b6&style=flat" alt="star-173" />
@@ -29,85 +36,37 @@
 ```
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="30" alt="podman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" alt="aws">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" alt="bash">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-socket_io-2496ED?logo=socketdotio&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-firebase-DD2C00?logo=firebase&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-graphql-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-apache-D22128?logo=apache&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-redis-FF4438?logo=redis&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-argo_CD-EF7B4D?logo=argo&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-gitlab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-node_js-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-podman-892CA0?logo=podman&logoColor=white&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/-digitalocean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge" alt="">
 </div>
 
 ###
