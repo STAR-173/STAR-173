@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shoaib Akhtar 👋 <br /> Bringing applications to life, one line at a time</h1>
 
 ###
-<div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+<div align="center" class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
   <a href="https://www.linkedin.com/in/shoaib-star/" target="_blank"><img src="./assets/linkedin.svg" width="35px" alt="linkedIn" /></a> &nbsp; &nbsp;
   <a href="mailto:starvoltz173@gmail.com" target="_blank"><img src="./assets/gmail.svg" width="35px" alt="mail" /></a> &nbsp; &nbsp;
   <a href="https://x.com/Shoaib_star_" target="_blank"><img src="./assets/x.svg" width="35px" alt="x" /></a> &nbsp; &nbsp;
