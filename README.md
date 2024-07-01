@@ -11,7 +11,7 @@
 
 <div align="center">
 <!--    <img src="https://komarev.com/ghpvc/?username=star-173&label=Profile%20views&color=0e75b6&style=flat" alt="star-173" />
-  <img src="https://github.com/STAR-173/STAR-173/assets/140428769/a2b69099-a337-4ce4-95d3-dd036221dff5" alt="profile" /> -->
+        <img src="https://github.com/STAR-173/STAR-173/assets/140428769/a2b69099-a337-4ce4-95d3-dd036221dff5" alt="profile" /> -->
 </div>
 
 ###
@@ -19,7 +19,7 @@
    ### <!-- <p align="center">The place where I opensource stuff and break things 🤣</p> -->
      
    
-   <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=star-173&show_icons=true&locale=en" alt="star-173" /></div> -->
+   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=star-173&show_icons=true&locale=en" alt="star-173" /></div>
 
 ###
 
@@ -70,18 +70,6 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="mailto:starvoltz173@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-   <a>
-  <a href="https://www.linkedin.com/in/shoaib-star/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-   </a>
-  <!--- <img src="https://img.shields.io/static/v1?message=shoaib_star&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
-</div>
 
 ###
 
