@@ -2,6 +2,13 @@
 
 ###
 <div align="center" class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/gmail.svg">
+      <img width="35px" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
+</p>
   <a href="https://www.linkedin.com/in/shoaib-star/" target="_blank"><img src="./assets/linkedin.svg" width="35px" alt="linkedIn" /></a> &nbsp; &nbsp;
   <a href="mailto:starvoltz173@gmail.com" target="_blank"><img src="./assets/gmail.svg" width="35px" alt="mail" /></a> &nbsp; &nbsp;
   <a href="https://x.com/Shoaib_star_" target="_blank"><img src="./assets/x.svg" width="35px" alt="x" /></a> &nbsp; &nbsp;
