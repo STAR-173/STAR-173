@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shoaib Akhtar <br /> Bringing applications to life, one line at a time</h1>
+<h1 align="center">Hi, I'm Shoaib Akhtar 👋 <br /> Bringing applications to life, one line at a time</h1>
 
 ###
 <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
