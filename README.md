@@ -4,8 +4,8 @@
 <div align="center" class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
   <a href="https://www.linkedin.com/in/shoaib-star/" target="_blank"><img src="./assets/linkedin.svg" width="35px" alt="linkedIn" /></a> &nbsp; &nbsp;
   <a href="mailto:starvoltz173@gmail.com" target="_blank"><img src="./assets/gmail.svg" width="35px" alt="mail" /></a> &nbsp; &nbsp;
-  <a href="https://x.com/Shoaib_star_" target="_blank"><img src="./assets/x_dark.svg" width="35px" alt="x" /></a> &nbsp; &nbsp;
-  <a href="https://dev.to/star173" target="_blank"><img src="./assets/dev_to_dark.svg" width="35px" alt="dev_to" /></a> &nbsp; &nbsp;
+  <a href="https://x.com/Shoaib_star_" target="_blank"><img src="./assets/x.svg" width="35px" alt="x" /></a> &nbsp; &nbsp;
+  <a href="https://dev.to/star173" target="_blank"><img src="./assets/dev_to.svg" width="35px" alt="dev_to" /></a> &nbsp; &nbsp;
 </div>
 
 
